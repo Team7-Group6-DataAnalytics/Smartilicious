@@ -8,3 +8,5 @@ Hello() {
 # Invoke your function
 Hello
 
+# This is just for demo
+   echo "this is git on visual studio"
